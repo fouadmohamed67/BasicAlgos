@@ -10,5 +10,13 @@ and the write the input
 ->the solution is done in javascript
 ->passing the array to function and the number of array like: 
 ([1,2,4],4) the retutn value will be 3
-to run the program in cmd write:  node  Question6-2.js
+->to run the program in cmd write:  node  Question6-2.js
+-----------------------------------------------------------------
+# for Question6-3 : function myDigitalClock to show the time
+->the solution is done in javascript
+->the function get the current hours,min,seconds and timeZone and then design them as digital Clock. i had used setInterval to update the time every second
+->to run the program in cmd write:  node  Question6-3.js
+
+
+
 
